@@ -52,9 +52,10 @@
 <!--Stats-->
 <div id="stats" align="center">
   <a href="https://github.com/ZaGreBd">
-  <img width="42%" height="175px" src="https://github-readme-stats.vercel.app/api?username=ZaGreBd&show_icons=false&include_all_commits=true&count_private=true&theme=dracula&rank_icon=github"/>
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaGreBd&layout=compact&langs_count=7&theme=dracula"/><br><br>
-  <img align="center" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaGreBd&theme=dracula" alt="ZaGreBd" />
+    <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=ZaGreBd&show_icons=false&include_all_commits=true&count_private=true&theme=dracula&rank_icon=github"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaGreBd&layout=compact&langs_count=7&theme=dracula"/><br><br>
+    <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaGreBd&theme=dracula" alt="ZaGreBd" />
+  </a>
 </div>
   
   
