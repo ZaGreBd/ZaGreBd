@@ -3,6 +3,7 @@
 
 <!--Typing letters-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a268f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Neto;I'm+19+years+old;I'm+a+Junior+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
 
 <!--Menu-->
 <p align="center">
