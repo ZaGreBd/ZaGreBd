@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=773cc9&height=120&section=header"/>
 
 <!--Typing letters-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a268f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Neto;I'm+19+years+old;I'm+a+Junior+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a268f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Neto;I'm+20+years+old;I'm+a+Junior+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
 <!--Menu-->
@@ -74,10 +74,10 @@
           <h2>About me:</h2>
           <ul>
             <li>🌱 Full Stack Jr. Developer</li>
-            <li>👤 Me: Pedro Neto, 19 yo</li>
+            <li>👤 Me: Pedro Neto, 20 yo</li>
             <li>🔥 About me: I am a technology enthusiast and passionate about intelligent solutions, always with a strong desire to grow and learn new things. Currently, I am specializing in full stack development in order to soon secure a position that will help me leverage my career in the field. I am always seeking exciting challenges and opportunities to apply my technical skills, focusing on solving complex problems and developing innovative solutions.</li>
             <li>💎 Experience: Since 10/2022 at Ciarama, working as a data analyst and full stack developer. Experience in web and mobile development through private projects.</li>
-            <li>🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018); 1st semester of Bachelor's Degree in Information Systems from UFMS (Ponta Porã, 2023)</li>
+            <li>🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018); 3rd semester of Bachelor's Degree in Information Systems from UFMS (Ponta Porã, 2023)</li>
             <li>🌎 Languages:
               <ul>
                 <li>English: ⭐⭐⭐★ ★
@@ -93,10 +93,10 @@
           <h2>Sobre mim:</h2>
           <ul>
             <li>🌱 Desenvolvedor Full Stack Jr.</li>
-            <li>👤 Eu: Pedro Neto, 19 anos</li>
+            <li>👤 Eu: Pedro Neto, 20 anos</li>
             <li>🔥 Sobre mim: Sou um profissional entusiasta de tecnologia e soluções inteligentes, sempre com muito desejo de crescer e aprender coisas novas. Atualmente estou me especializando no desenvolvimento full stack, para, em breve, conseguir alguma vaga que me ajude a alavancar minha carreira na área, estou sempre buscando desafios emocionantes e oportunidades para aplicar minhas habilidades técnicas, focando na resolução de problemas complexos e no desenvolvimento de soluções inovadoras.</li>
             <li>💎 Experiência: Desde 10/2022 na Ciarama, atuando como analista de dados e desenvolvedor full stack. Experiência em desenvolvimento web e mobile por meio de projetos privados.</li>
-            <li>🎓 Educação: Técnico em Informatica pelo IFMS (Ponta Porã, 2018); 1° semestre de Bacharelado em Sistemas da Informação pela UFMS (Ponta Porã, 2023)</li>
+            <li>🎓 Educação: Técnico em Informatica pelo IFMS (Ponta Porã, 2018); 3° semestre de Bacharelado em Sistemas da Informação pela UFMS (Ponta Porã, 2023)</li>
             <li>🌎 Idiomas:
               <ul>
                 <li>Inglês: ⭐⭐⭐★ ★
