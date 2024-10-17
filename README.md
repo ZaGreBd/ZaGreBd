@@ -38,8 +38,6 @@
 <div align="left">
   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
 
 
@@ -77,7 +75,7 @@
             <li>👤 Me: Pedro Neto, 20 yo</li>
             <li>🔥 About me: I am a technology enthusiast and passionate about intelligent solutions, always with a strong desire to grow and learn new things. Currently, I am specializing in full stack development in order to soon secure a position that will help me leverage my career in the field. I am always seeking exciting challenges and opportunities to apply my technical skills, focusing on solving complex problems and developing innovative solutions.</li>
             <li>💎 Experience: Since 10/2022 at Ciarama, working as a data analyst and full stack developer. Experience in web and mobile development through private projects.</li>
-            <li>🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018); 3rd semester of Bachelor's Degree in Information Systems from UFMS (Ponta Porã, 2023)</li>
+            <li>🎓 Education: Completed Informatics Technician at IFMS (Ponta Porã, 2018); 5rd semester of Bachelor's Degree in Information Systems from UFMS (Ponta Porã, 2023)</li>
             <li>🌎 Languages:
               <ul>
                 <li>English: ⭐⭐⭐★ ★
@@ -96,7 +94,7 @@
             <li>👤 Eu: Pedro Neto, 20 anos</li>
             <li>🔥 Sobre mim: Sou um profissional entusiasta de tecnologia e soluções inteligentes, sempre com muito desejo de crescer e aprender coisas novas. Atualmente estou me especializando no desenvolvimento full stack, para, em breve, conseguir alguma vaga que me ajude a alavancar minha carreira na área, estou sempre buscando desafios emocionantes e oportunidades para aplicar minhas habilidades técnicas, focando na resolução de problemas complexos e no desenvolvimento de soluções inovadoras.</li>
             <li>💎 Experiência: Desde 10/2022 na Ciarama, atuando como analista de dados e desenvolvedor full stack. Experiência em desenvolvimento web e mobile por meio de projetos privados.</li>
-            <li>🎓 Educação: Técnico em Informatica pelo IFMS (Ponta Porã, 2018); 3° semestre de Bacharelado em Sistemas da Informação pela UFMS (Ponta Porã, 2023)</li>
+            <li>🎓 Educação: Técnico em Informatica pelo IFMS (Ponta Porã, 2018); 5° semestre de Bacharelado em Sistemas da Informação pela UFMS (Ponta Porã, 2023)</li>
             <li>🌎 Idiomas:
               <ul>
                 <li>Inglês: ⭐⭐⭐★ ★
